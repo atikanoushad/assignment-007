@@ -1,3 +1,5 @@
+import Count from "./components/Count"
+import Navbar from "./components/Navbar"
 
 
 function App() {
@@ -5,7 +7,10 @@ function App() {
 
   return (
     <>
-      <p className="text-red-500">I am atika</p>
+    {/* navbar */}
+    <Navbar></Navbar>
+    {/* count cards */}
+   <Count></Count>
     </>
   )
 }
