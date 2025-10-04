@@ -2,7 +2,7 @@ import React from 'react';
 
 const Navbar = () => {
     return (
-        <div>
+        <div className='mx-10'>
             <div className="flex flex-col lg:flex-row justify-center items-center lg:justify-between container mx-auto mt-5">
       <h2 className="font-bold text-xl">CS — Ticket System</h2>
       <div className="flex gap-3">

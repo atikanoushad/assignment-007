@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "title": "Login page not working",
+    "description": "Users are unable to log in with correct credentials.",
+    "customer": "John Doe",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-28T10:15:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Payment gateway issue",
+    "description": "Transactions are failing during checkout.",
+    "customer": "Sarah Lee",
+    "priority": "Critical",
+    "status": "Open",
+    "createdAt": "2025-09-29T08:42:00Z"
+  },
+  {
+    "id": 3,
+    "title": "Profile picture not uploading",
+    "description": "Error appears when uploading profile images.",
+    "customer": "David Kim",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2025-09-30T14:25:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Email notifications delayed",
+    "description": "System emails are being sent after 1-2 hours delay.",
+    "customer": "Emily Carter",
+    "priority": "Low",
+    "status": "In Progress",
+    "createdAt": "2025-10-01T09:10:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Search results incorrect",
+    "description": "Some products are missing from search results.",
+    "customer": "Michael Brown",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "2025-09-26T17:40:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Mobile app crashes",
+    "description": "App crashes when opening user profile page.",
+    "customer": "Sophia Turner",
+    "priority": "Critical",
+    "status": "In Progress",
+    "createdAt": "2025-09-25T11:22:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Order history not visible",
+    "description": "Users report blank order history after recent update.",
+    "customer": "Daniel Scott",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2025-09-27T16:05:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Slow dashboard loading",
+    "description": "Admin dashboard takes too long to load.",
+    "customer": "Anna Johnson",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-24T13:50:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Incorrect tax calculation",
+    "description": "Tax amounts displayed incorrectly on invoices.",
+    "customer": "James Wilson",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-28T07:33:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Push notifications not received",
+    "description": "Some Android users are not receiving push alerts.",
+    "customer": "Olivia Martinez",
+    "priority": "Medium",
+    "status": "Resolved",
+    "createdAt": "2025-09-23T20:15:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Broken links on homepage",
+    "description": "Several links on the homepage return 404 errors.",
+    "customer": "Liam Anderson",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "2025-09-21T12:40:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Password reset email not sent",
+    "description": "Password reset requests are not triggering emails.",
+    "customer": "Mia Rodriguez",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "2025-09-22T15:28:00Z"
+  }
+]

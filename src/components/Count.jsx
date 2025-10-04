@@ -3,7 +3,7 @@ import React from 'react';
 
 const Count = () => {
     return (
-        <div>
+        <div className='mx-10'>
             <div className="container mx-auto mt-15 flex gap-5 ">
       
       <div className="w-[780px] h-[250px] bg-gradient-to-b from-[#632EE3] to-[#9F62F2] text-center pt-19  ">
